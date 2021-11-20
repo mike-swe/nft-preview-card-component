@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Visuals](./https://ibb.co/BcPSDRY)
+![Project Visuals](https://ibb.co/BcPSDRY)
 
 ### Links
 
