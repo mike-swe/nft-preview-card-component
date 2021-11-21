@@ -47,7 +47,7 @@ Here's the CSS code snippet, see below:
 ```css
 .image-area img:hover
 {
-    mix-blend-mode: luminosity;
+    mix-blend-mode: difference;
 }
 ```
 
